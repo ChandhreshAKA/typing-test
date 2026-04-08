@@ -25,7 +25,7 @@ Typing Test
 
 ##  Live Website
 
-(Add your GitHub Pages link here)
+https://chandhreshaka.github.io/typing-test/
 
 ##  Author
 
